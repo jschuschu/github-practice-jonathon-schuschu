@@ -1,2 +1,2 @@
-# github-practice-jonathon-schuschu
+How to make a Repository. 
 MIS 387. 
